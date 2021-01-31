@@ -1,0 +1,10 @@
+Ethnicity,Ethnicity_index,Population,Pop_percentage,VaccConfidency_percentage,1stDose,1stDose_perc,2ndDose,2ndDose_perc,CumulativeDoses_totalToDate,CumulativeDoses_perc
+TotalPopulation,0,56075912.00 ,100.00 ,82.00 ,5792159.00 ,100.00 ,440425.00 ,100.00 ,6232584.00 ,100.00 
+Any other Asian background,1,1228861.00 ,2.20 ,86.10 ,87174.00 ,1.51 ,9365.00 ,2.13 ,168639.00 ,2.71 
+Indian,2,1412958.00 ,2.50 ,79.40 ,146075.00 ,2.52 ,12530.00 ,2.84 ,158605.00 ,2.54 
+Pakistani/Bangladeshi,3,1571712.00 ,2.80 ,57.70 ,61067.00 ,1.05 ,3911.00 ,0.89 ,64978.00 ,1.04 
+Black or Black British,4,1864890.00 ,3.30 ,28.20 ,88117.00 ,1.52 ,4336.00 ,0.98 ,92453.00 ,1.48 
+Mixed,5,1224400.00 ,2.20 ,67.60 ,42476.00 ,0.73 ,2595.00 ,0.59 ,45071.00 ,0.72 
+Any other ethnic group,6,563696.00 ,1.00 ,79.50 ,62971.00 ,1.09 ,4178.00 ,0.95 ,67149.00 ,1.08 
+Any other White background,7,2543622.00 ,4.50 ,73.60 ,262186.00 ,4.53 ,20266.00 ,4.60 ,282452.00 ,4.53 
+White British or Irish,8,45665773.00 ,81.40 ,84.40 ,4475951.00 ,77.28 ,348801.00 ,79.20 ,4824752.00 ,77.41 
